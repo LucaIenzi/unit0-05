@@ -1,0 +1,87 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{216, 204}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "answer_for_area_perimator",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "answer",
+          "uuid" : "69EE475A-5EFF-4C6D-A4C0-30D9E1921A25",
+          "class" : "Button",
+          "name" : "answer_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{181, 259}, {182, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "87071D2D-422B-4C57-9F04-E7ADC8E87056",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "the area and perimiter",
+          "name" : "question_lable",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{181, 325}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "46038BF7-1D59-4D5F-BCB0-70F84572846A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "area",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{181, 365}, {190, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "1CA52BEF-D8E3-4C9D-BD5D-DFDDE6FACBD4",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "perimator",
+          "font_size" : 18
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
